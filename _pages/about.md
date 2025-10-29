@@ -59,6 +59,6 @@ My research interest includes neural machine translation and computer vision. I 
     Click to view visitor map 🌍
   </summary>
   <div style="text-align:center; margin:20px 0;">
-    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=uXIJLHawEZ_nSeyodbXfyETjWNirKIOUUqv4uREhNmk&cl=ffffff&w=300"></script>
+    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=e3Ce3OtibDpE3LEi5P9_ogmq3Dt5rZA_atT8pzf0DGw&cl=ffffff&w=a"></script>
   </div>
 </details>
