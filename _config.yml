@@ -5,9 +5,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-# Site Settings
-title                    : "TIANXIN HU"
-description              : "Focusing on optimization-based planning and control; interested in learning-driven and memory-based navigation."
+# Site Settings 
+title                    : "Rui Qian" 
+description              : "Robot Perception/3D Scene Understanding\n3D Computer Vision\nSpatial Intellgence "
 repository               : 
 google_scholar_stats_use_cdn : true
 
@@ -21,17 +21,17 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "TIANXIN HU"
-  avatar           : "images/htx_profile.png"
-  bio              : ""
+  name             : "Rui Qian"
+  avatar           : "images/profile.png"
+  bio              : "" 
   location         : "Singapore"
   employer         : "Nanyang Technological University"
   employer_url     : "https://www.ntu.edu.sg/"
   department       : "School of Electrical and Electronic Engineering"
-  department_url   : "https://www.ntu.edu.sg/eee/"
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=qyZt-rQAAAAJ&hl=en"
-  email            : "TIANXIN001@e.ntu.edu.sg" 
+  department_url   : "https://www.ntu.edu.sg/eee/" 
+  pubmed           :  
+  googlescholar    : "https://scholar.google.com/citations?user=ezQHNKwAAAAJ&hl=zh-CN"
+  email            : "RQIAN003@@e.ntu.edu.sg" 
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -40,7 +40,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ccwss-maker"
+  github           : "Made-Gpt"
   google_plus      :
   keybase          :
   instagram        :

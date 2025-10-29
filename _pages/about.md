@@ -31,7 +31,8 @@ My research interest includes neural machine translation and computer vision. I 
 {% include publications/lunarplan_icra2026/index.html %}
 {% include publications/starc_icra2026/index.html %}
 {% include publications/CleanUpBench_aaai2025/index.html %}
-## ✅ Accepted & Published
+{% include publications/splatssc_aaai26/index.html %}
+## ✅ Accepted & Published 
 {% include publications/msagv_jai2025/index.html %}
 {% include publications/svplan_icra2025/index.html %}
 
@@ -45,13 +46,13 @@ My research interest includes neural machine translation and computer vision. I 
 {% include projects/CHIJI/index.html %}
 ## 🎨 Toy Projects
 {% include projects/Toy/index.html %}
-
+ 
 # 🎖 Honors and Awards
 {% include awards/index.html %}
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+ 
+# 📖 Educations 
+- *2020.06 - 2024.06*, Changzhou University, Changzhou, China, Bachelor of ElectronicInformation Engineering. 
+- *2024.08 - 2025.10 (now)*, Nanyang Technological University, Singapore, Master of Computer Control and Automation. 
 
 # 🗺️ Visitor Map
 <details style="margin:20px 0;">
