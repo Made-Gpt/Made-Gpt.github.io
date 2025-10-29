@@ -12,7 +12,7 @@ redirect_from:
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
+{% endif %} 
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>  
@@ -31,7 +31,7 @@ My research interest includes neural machine translation and computer vision. I 
 {% include publications/lunarplan_icra2026/index.html %}
 {% include publications/starc_icra2026/index.html %}
 {% include publications/CleanUpBench_aaai2025/index.html %}
-{% include publications/splatssc_aaai26/index.html %}
+{% comment %} {% include publications/splatssc_aaai26/index.html %} {% endcomment %}
 ## ✅ Accepted & Published 
 {% include publications/msagv_jai2025/index.html %} 
 {% comment %} {% include publications/svplan_icra2025/index.html %} {% endcomment %}

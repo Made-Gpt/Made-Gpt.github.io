@@ -4,7 +4,7 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
- 
+  
 # Site Settings 
 title                    : "Rui Qian" 
 description              : "Robot Perception/3D Scene Understanding\n3D Computer Vision\nSpatial Intellgence "
@@ -18,7 +18,7 @@ google_analytics_id      :  # get google_analytics_id from https://analytics.goo
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
-
+ 
 # Site Author
 author:
   name             : "Rui Qian"
@@ -31,7 +31,7 @@ author:
   department_url   : "https://www.ntu.edu.sg/eee/" 
   pubmed           :  
   googlescholar    : "https://scholar.google.com/citations?user=ezQHNKwAAAAJ&hl=zh-CN"
-  email            : "RQIAN003@@e.ntu.edu.sg" 
+  email            : "RQIAN003@e.ntu.edu.sg" 
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
