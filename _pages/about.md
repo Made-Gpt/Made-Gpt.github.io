@@ -19,8 +19,7 @@ redirect_from:
   
 I am Rui Qian, a Master's student in Computer Control and Automation at Nanyang Technological University (NTU), Singapore, supervised by **Prof. Lihua Xie**. My research lies at the intersection of **3D Computer Vision** and **Robotic Perception**, with a particular focus on **semantic scene understanding**, **3D Gaussian representations**, and **efficient spatial intelligence**. I am broadly interested in enabling embodied agents to perceive, reconstruct, and interact with the real world through scalable and data-efficient 3D learning.
 
-My long-term goal is to bridge geometric perception and semantic reasoning toward building generalizable 3D world models for robotics and autonomous systems. .
-
+My long-term goal is to bridge geometric perception and semantic reasoning toward building generalizable 3D world models for robotics and autonomous systems.
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
