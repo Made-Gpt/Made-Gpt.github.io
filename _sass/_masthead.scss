@@ -32,6 +32,17 @@
     }
   }
 }
+ 
+.site-logo {
+  display: inline-block;
+  margin-right: 1em;
+  
+  img {
+    max-height: 2rem;
+    width: auto;
+    vertical-align: middle;
+  }
+}
 
 .masthead__menu {
 
