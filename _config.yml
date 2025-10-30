@@ -7,9 +7,9 @@
   
 # Site Settings  
 title                    : "Rui Qian" 
-description              : "Robot Perception/3D Scene Understanding\r\n3D Computer Vision\r\nSpatial Intellgence"
+description              : "Robot Perception/3D Scene Understanding<br>3D Computer Vision<br>Spatial Intelligence"
 repository               :   
-google_scholar_stats_use_cdn : true  
+google_scholar_stats_use_cdn : true
  
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
