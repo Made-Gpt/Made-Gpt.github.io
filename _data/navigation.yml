@@ -5,7 +5,7 @@ main:
 
   # - title: "News"
   #   url: "/#-news"
-
+ 
   - title: "Publications"
     url: "/#-publications"
 
@@ -24,8 +24,8 @@ main:
   # - title: "Internships"
   #   url: "/#-internships"
 
-  - title: "CV"
-    url: "/cv.pdf"
+  - title: "CV" 
+    url: "/Resume.pdf"
 
   # - title: "Maps"
   #   url: "/#-visitor-map"

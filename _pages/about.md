@@ -25,14 +25,16 @@ My long-term goal is to bridge geometric perception and semantic reasoning towar
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
- 
+  
 # 📝 Publications
 {% include publications/splatssc_aaai26/index.html %} 
 {% include publications/lunarplan_icra2026/index.html %}
 {% include publications/starc_icra2026/index.html %}
-
-## 🎨 Toy Projects
+ 
+{% comment %}
+## 🎨 Toy Projects 
 {% include projects/Toy/index.html %}
+{% endcomment %}
  
 # 🎖 Honors and Awards
 {% include awards/index.html %}
