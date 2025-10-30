@@ -17,24 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>  
   
-I am Rui Qian, a Master’s student in Computer Control and Automation at Nanyang Technological University (NTU), Singapore, supervised by Prof. Lihua Xie. My research lies at the intersection of 3D Computer Vision and Robotic Perception, with a particular focus on semantic scene understanding, 3D Gaussian representations, and efficient spatial intelligence. I am broadly interested in enabling embodied agents to perceive, reconstruct, and interact with the real world through scalable and data-efficient 3D learning. My long-term goal is to bridge geometric perception and semantic reasoning toward building generalizable 3D world models for robotics and autonomous systems. 
+I am Rui Qian, a Master's student in Computer Control and Automation at Nanyang Technological University (NTU), Singapore, supervised by **Prof. Lihua Xie**. My research lies at the intersection of **3D Computer Vision** and **Robotic Perception**, with a particular focus on **semantic scene understanding**, **3D Gaussian representations**, and **efficient spatial intelligence**. I am broadly interested in enabling embodied agents to perceive, reconstruct, and interact with the real world through scalable and data-efficient 3D learning.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>10+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My long-term goal is to bridge geometric perception and semantic reasoning toward building generalizable 3D world models for robotics and autonomous systems. .
 
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
-# 📝 Publications 
-## 🔬 Under Review 
+ 
+# 📝 Publications
 {% include publications/lunarplan_icra2026/index.html %}
 {% include publications/starc_icra2026/index.html %}
-{% include publications/CleanUpBench_aaai2025/index.html %}
-{% comment %} {% include publications/splatssc_aaai26/index.html %} {% endcomment %}
-## ✅ Accepted & Published 
-{% include publications/msagv_jai2025/index.html %} 
-{% comment %} {% include publications/svplan_icra2025/index.html %} {% endcomment %}
+{% include publications/splatssc_aaai26/index.html %} 
 
 # 📜 Patents
 {% include patents/index.html %}
