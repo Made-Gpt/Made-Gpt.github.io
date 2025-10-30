@@ -16,14 +16,20 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>  
+ 
+# 🧭 About Me 
+
+Hello! I am Rui Qian, a Master's student in Computer Control and Automation at Nanyang Technological University (NTU), Singapore, supervised by **Prof. Lihua Xie**.
+
+My research interests lie at the intersection of **3D Computer Vision** and **Robotic Perception**. My core academic ambition is to advance machine spatial intelligence, focusing on how autonomous agents can perceive, comprehend, and interact with our complex and dynamic 3D world in a manner akin to humans.
   
-I am Rui Qian, a Master's student in Computer Control and Automation at Nanyang Technological University (NTU), Singapore, supervised by **Prof. Lihua Xie**. My research lies at the intersection of **3D Computer Vision** and **Robotic Perception**, with a particular focus on **semantic scene understanding**, **3D Gaussian representations**, and **efficient spatial intelligence**. I am broadly interested in enabling embodied agents to perceive, reconstruct, and interact with the real world through scalable and data-efficient 3D learning.
+I am particularly interested in **semantic scene understanding** and developing advanced scalable 3D representation methods, such as the involving 3D Gaussian representations. I believe that true autonomy hinges on a machine's ability to reconstruct (geometry) and understand (semantics) a persistent internal model of its environment. 
 
-My long-term goal is to bridge geometric perception and semantic reasoning toward building generalizable 3D world models for robotics and autonomous systems.
+In the long term, I aim to bridge geometric perception and semantic reasoning. I am passionate about developing foundation models for 3D world understanding to empower future robotic and Embodied AI systems. My goal is to enable these agents with higher-level reasoning capabilities, allowing them to build persistent, high-fidelity digital twins of their environment and ultimately, to seamlessly connect the physical and virtual worlds. 
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🔥 News
+- *2025.9*: &nbsp; Expect to graduate from NTU in December 2025. Pursuing a **PhD** or **Research Assistantship** currently!
+<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.--> 
 
 # 📝 Publications
 {% include publications/splatssc_aaai26/index.html %} 
