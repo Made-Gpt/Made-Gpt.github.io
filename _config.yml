@@ -5,9 +5,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
   
-# Site Settings 
+# Site Settings  
 title                    : "Rui Qian" 
-description              : "Robot Perception/3D Scene Understanding\n3D Computer Vision\nSpatial Intellgence "
+description              : "Robot Perception/3D Scene Understanding\r\n3D Computer Vision\r\nSpatial Intellgence"
 repository               :   
 google_scholar_stats_use_cdn : true  
  
