@@ -28,10 +28,10 @@ I am particularly interested in **semantic scene understanding** and developing 
 In the long term, I aim to bridge geometric perception and semantic reasoning. I am passionate about developing foundation models for 3D world understanding to empower future robotic and Embodied AI systems. My goal is to enable these agents with higher-level reasoning capabilities, allowing them to build persistent, high-fidelity digital twins of their environment and ultimately, to seamlessly connect the physical and virtual worlds. 
 
 # 🔥 News
-- *2025.11*: &nbsp; 🎉🎉 One [paper](#splatssc-aaai26) to *Occupancy Networks* is accepted to **AAAI 2026** as **Oral**!
-- *2025.09*: &nbsp; Expect to graduate from NTU in December 2025. Pursuing a **PhD** or **Research Assistantship** currently!
+- *2025.11*: &nbsp; 🎉🎉 One [paper](#splatssc-aaai26) on *Occupancy Networks* is accepted to **AAAI 2026** as **Oral**!
+- *2025.09*: &nbsp; Expected to graduate from NTU in December 2025. Currently seeking a **PhD** position or **Research Assistantship**!
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.--> 
-
+ 
 # 📝 Publications
 {% include publications/splatssc_aaai26/index.html %} 
 {% include publications/lunarplan_icra2026/index.html %}
