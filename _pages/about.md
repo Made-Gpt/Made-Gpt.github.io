@@ -44,9 +44,9 @@ In the long term, I aim to bridge geometric perception and semantic reasoning. I
  
 # 🎖 Honors and Awards
 {% include awards/index.html %}
- 
+
 # 📖 Educations 
-- *2020.06 - 2024.06*, Changzhou University, Changzhou, China, Bachelor of ElectronicInformation Engineering. 
+- *2020.06 - 2024.06*, Changzhou University, Changzhou, China, Bachelor of Electronic Information Engineering. 
 - *2024.08 - 2025.10 (now)*, Nanyang Technological University, Singapore, Master of Computer Control and Automation. 
 
 # 🗺️ Visitor Map
