@@ -29,7 +29,7 @@ In the long term, I aim to bridge geometric perception and semantic reasoning. I
 
 # 🔥 News
 - *2025.11*: &nbsp; 🎉🎉 One [paper](#splatssc-aaai26) on *Occupancy Networks* is accepted to **AAAI 2026** as **Oral**!
-- *2025.09*: &nbsp; Expected to graduate from NTU in December 2025. Currently seeking a **PhD** position or **Research Assistantship**!
+- *2025.09*: &nbsp; Currently seeking a **PhD** position, **Research Assistantship**, or **Internship**!
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.--> 
  
 # 📝 Publications
@@ -46,7 +46,7 @@ In the long term, I aim to bridge geometric perception and semantic reasoning. I
 {% include awards/index.html %}
 
 # 📖 Educations 
-- *2020.06 - 2024.06*, Changzhou University, Changzhou, China, Bachelor of Electronic Information Engineering. 
+- *2020.010 - 2024.06*, Changzhou University, Changzhou, China, Bachelor of Electronic Information Engineering. 
 - *2024.08 - 2025.10 (now)*, Nanyang Technological University, Singapore, Master of Computer Control and Automation. 
 
 # 🗺️ Visitor Map
