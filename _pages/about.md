@@ -31,9 +31,9 @@ In the long term, I aim to bridge geometric perception and semantic reasoning. I
 - *2025.11*: &nbsp; 🎉🎉 One [paper](#splatssc-aaai26) on *Occupancy Networks* is accepted to **AAAI 2026** as **Oral**!
 - *2025.09*: &nbsp; Currently seeking a **PhD** position, **Research Assistantship**, or **Internship**!
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.--> 
- 
+
 # 📝 Publications
-{% include publications/tgsformer_cvpr26/index.html %} 
+{% include publications/tgsformer_cvpr2026/index.html %}  
 {% include publications/splatssc_aaai26/index.html %}
 {% include publications/lunarplan_icra2026/index.html %}
 {% include publications/starc_icra2026/index.html %}
