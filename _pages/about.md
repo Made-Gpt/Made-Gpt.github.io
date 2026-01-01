@@ -33,7 +33,8 @@ In the long term, I aim to bridge geometric perception and semantic reasoning. I
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.--> 
  
 # 📝 Publications
-{% include publications/splatssc_aaai26/index.html %} 
+{% include publications/tgsformer_cvpr26/index.html %} 
+{% include publications/splatssc_aaai26/index.html %}
 {% include publications/lunarplan_icra2026/index.html %}
 {% include publications/starc_icra2026/index.html %}
  
@@ -47,7 +48,7 @@ In the long term, I aim to bridge geometric perception and semantic reasoning. I
 
 # 📖 Educations 
 - *2020.010 - 2024.06*, Changzhou University, Changzhou, China, Bachelor of Electronic Information Engineering. 
-- *2024.08 - 2025.10 (now)*, Nanyang Technological University, Singapore, Master of Computer Control and Automation. 
+- *2024.08 - now*, Nanyang Technological University, Singapore, Master of Computer Control and Automation. 
 
 # 🗺️ Visitor Map
 <details style="margin:20px 0;">
