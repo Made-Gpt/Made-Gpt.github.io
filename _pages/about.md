@@ -20,23 +20,23 @@ redirect_from:
 # 🧭 About Me 
 
 Hello! I am Rui Qian, a Master's student in Computer Control and Automation at Nanyang Technological University (NTU), Singapore, supervised by **Prof. Lihua Xie**.
-
+ 
 My research interests lie at the intersection of **3D Computer Vision** and **Robotic Perception**. My core academic ambition is to advance machine spatial intelligence, focusing on how autonomous agents can perceive, comprehend, and interact with our complex and dynamic 3D world in a manner akin to humans.
-  
-I am particularly interested in **semantic scene understanding** and developing advanced scalable 3D representation methods, such as the involving 3D Gaussian representations. I believe that true autonomy hinges on a machine's ability to reconstruct (geometry) and understand (semantics) a persistent internal model of its environment. 
-
+ 
+I am particularly interested in **semantic scene understanding** and developing advanced scalable 3D representation methods, such as the involving 3D Gaussian representations. I believe that true autonomy hinges on a machine's ability to reconstruct (geometry) and understand (semantics) a persistent internal model of its environment.  
+ 
 In the long term, I aim to bridge geometric perception and semantic reasoning. I am passionate about developing foundation models for 3D world understanding to empower future robotic and Embodied AI systems. My goal is to enable these agents with higher-level reasoning capabilities, allowing them to build persistent, high-fidelity digital twins of their environment and ultimately, to seamlessly connect the physical and virtual worlds. 
-
-# 🔥 News
+ 
+# 🔥 News 
+- *2026.02*: &nbsp; 🎉🎉 One [paper](#tgsformer-cvpr2026) on *Embodied Occupancy Networks* is accepted to **CVPR 2026** !
 - *2025.11*: &nbsp; 🎉🎉 One [paper](#splatssc-aaai26) on *Occupancy Networks* is accepted to **AAAI 2026** as **Oral**!
 - *2025.09*: &nbsp; Currently seeking a **PhD** position, **Research Assistantship**, or **Internship**!
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.--> 
 
-# 📝 Publications
-{% include publications/tgsformer_cvpr2026/index.html %}  
-{% include publications/splatssc_aaai26/index.html %}
-{% include publications/lunarplan_icra2026/index.html %}
-{% include publications/starc_icra2026/index.html %}
+# 📝 Publications 
+{% include publications/tgsformer_cvpr2026/index.html %} 
+{% include publications/splatssc_aaai26/index.html %} 
+# {% include publications/lunarplan_icra2026/index.html %}
+# {% include publications/starc_icra2026/index.html %}
  
 {% comment %}
 ## 🎨 Toy Projects 
@@ -45,7 +45,7 @@ In the long term, I aim to bridge geometric perception and semantic reasoning. I
  
 # 🎖 Honors and Awards
 {% include awards/index.html %}
-
+ 
 # 📖 Educations 
 - *2020.010 - 2024.06*, Changzhou University, Changzhou, China, Bachelor of Electronic Information Engineering. 
 - *2024.08 - now*, Nanyang Technological University, Singapore, Master of Computer Control and Automation. 
