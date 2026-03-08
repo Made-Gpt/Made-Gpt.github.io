@@ -35,8 +35,10 @@ In the long term, I aim to bridge geometric perception and semantic reasoning. I
 # 📝 Publications 
 {% include publications/tgsformer_cvpr2026/index.html %} 
 {% include publications/splatssc_aaai26/index.html %} 
-# {% include publications/lunarplan_icra2026/index.html %}
-# {% include publications/starc_icra2026/index.html %}
+{% comment %}
+{% include publications/lunarplan_icra2026/index.html %}
+{% include publications/starc_icra2026/index.html %}
+{% endcomment %}
  
 {% comment %}
 ## 🎨 Toy Projects 
