@@ -26,11 +26,11 @@ My research interests lie at the intersection of **3D Computer Vision** and **Ro
 I am particularly interested in **semantic scene understanding** and developing advanced scalable 3D representation methods, such as the involving 3D Gaussian representations. I believe that true autonomy hinges on a machine's ability to reconstruct (geometry) and understand (semantics) a persistent internal model of its environment.  
  
 In the long term, I aim to bridge geometric perception and semantic reasoning. I am passionate about developing foundation models for 3D world understanding to empower future robotic and Embodied AI systems. My goal is to enable these agents with higher-level reasoning capabilities, allowing them to build persistent, high-fidelity digital twins of their environment and ultimately, to seamlessly connect the physical and virtual worlds. 
- 
+  
 # 🔥 News 
 - *2026.02*: &nbsp; 🎉🎉 One [paper](#tgsformer-cvpr2026) on *Embodied Occupancy Networks* is accepted to **CVPR 2026** !
 - *2025.11*: &nbsp; 🎉🎉 One [paper](#splatssc-aaai26) on *Occupancy Networks* is accepted to **AAAI 2026** as **Oral**!
-- *2025.09*: &nbsp; Currently seeking a **PhD** position, **Research Assistantship**, or **Internship**!
+- *2025.09*: &nbsp; Currently seeking a **PhD** position !
 
 # 📝 Publications 
 {% include publications/tgsformer_cvpr2026/index.html %} 

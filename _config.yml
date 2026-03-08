@@ -10,7 +10,7 @@ title                    : "Rui Qian"
 description              : "Robot Perception/3D Scene Understanding<br>3D Computer Vision<br>Spatial Intelligence"
 repository               :   
 google_scholar_stats_use_cdn : true
- 
+  
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
@@ -18,13 +18,13 @@ google_analytics_id      :  # get google_analytics_id from https://analytics.goo
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
-
+ 
 # Site Author 
 author: 
   name             : "Rui Qian"
   avatar           : "images/profile.jpg"
   bio              : "" 
-  location         : "Singapore"
+  location         : # "Singapore"
   employer         : "Nanyang Technological University"
   employer_url     : "https://www.ntu.edu.sg/"
   department       : # "School of Electrical and Electronic Engineering"
